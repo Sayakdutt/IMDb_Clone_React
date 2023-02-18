@@ -1,13 +1,13 @@
 # IMDB CLONE
-
+<img src="./public/imdbimage1.png" alt="imdb clone image"/>
 
 ## Features :fire:
 
 :tv: Carousel of movies coming from the IMDB API<br>
 :tv: Diplay the list of upcoming, popular & top rated movies on clicking<br>
-:tv: <br>
 :tv: Click the movie to see the description, ratings, complete title, release date and more!<br>
-:tv: <br>
+
+<img src="./public/imdbimage2.png" alt="imdb clone image"/>
 
 ## Topics :
 
@@ -24,7 +24,7 @@
 ## Tech Stack
 
 :clapper: **Fron-end** React <br>
-:clapper: **Back-end** Firebase<br>
+:clapper: **Back-end** Netlify<br>
 
 
 In the project directory, you can run:
